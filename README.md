@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Hangman 👋</h1>
+<h1 align="center">Hangman</h1>
 <p>
 </p>
 
@@ -15,4 +15,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
