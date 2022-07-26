@@ -1,4 +1,4 @@
-<h1 align="center">Hangman</h1>
+<h1>Hangman</h1>
 <p>
 </p>
 
@@ -10,8 +10,3 @@
 
 * Github: [@watson-clara](https://github.com/watson-clara)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
